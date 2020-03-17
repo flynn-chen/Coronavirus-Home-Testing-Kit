@@ -11,6 +11,7 @@ The idea is to devise a simpler version of a RT-qPCR test, eliminate experimenta
 The test could be divided into two general steps, **RNA Extraction** and **qRT-PCR**.  
 
 For pipetting, try using disposable sterile exact volume transfer pipettes found here: https://www.pipette.com/transferpipettes?sbr=873&sbn=Globe%20Scientific%C2%A0Exact%20Volume%20Transfer%20Pipettes
+A bucket full of ice might also be needed to prevent degradation of RNA and real-time PCR enzymes.  
 
 #### RNA Extraction
 
@@ -26,7 +27,7 @@ For the real-time PCR, you will need to set up a dark box. Then, the goal is to 
 
 Next, you must order three RNA primers specific to COVID-19 according to the CDC guideline. The sequences could be found here: https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-panel-primer-probes.html. The key is to design custom primers for COVID-19. For Thermo Fischer, it could be found here: https://www.thermofisher.com/order/custom-genomic-products/tools/genotyping/. Copy over the forward and reverse primers for N1-N3 along with RP (serving as control). 
 
-Lastly, real-time PCR needs to quickly cycle between 50°C to 95°C, so readjust the temperature of the second cup of water from before. Follow the temperature settings specified here on page 18: http://tools.thermofisher.com/content/sfs/manuals/cms_041280.pdf. 
+Lastly, real-time PCR needs to quickly cycle between 50°C to 95°C, so readjust the temperature of the second cup of water from 35°C to 50°C so that it follows the temperature settings specified here on page 18: http://tools.thermofisher.com/content/sfs/manuals/cms_041280.pdf. 
 
 Perform Real-time PCR using the previous four sets of experiments (N1, N2, N3, RP) 
 For every cycle:
