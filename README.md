@@ -29,14 +29,16 @@ Next, you must order three RNA primers specific to COVID-19 according to the CDC
 
 Lastly, real-time PCR needs to quickly cycle between 50°C to 95°C, so readjust the temperature of the second cup of water from 35°C to 50°C so that it follows the temperature settings specified here on page 18: http://tools.thermofisher.com/content/sfs/manuals/cms_041280.pdf. 
 
-Perform Real-time PCR using the previous four sets of experiments (N1, N2, N3, RP) 
+Perform Real-time PCR using the previous four sets of experiments (N1, N2, N3, RP)   
 For every cycle:
-1. remove the rest tube from the water bath cups
-2. place it in the dark box 
-3. measure the level of fluorescents
-4. repeat 40 times
+1. Place the test tubes in the 50°C water bath cups for 2 minutes
+2. Place the test tubes in the 95°C water bath cups for 10 minutes
+3. remove the test tube from the water bath cups
+4. place it in the dark box 
+5. measure the level of fluorescents using the photosensor
+6. repeat 40 times
 
-Track if there are patterns of exponential increase in the level of light detected by photosensor, which indicates COVID-19 viral RNA. Results of four sets of experiments could be used for diagnosis according to this criteria: https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-detection-instructions.html#interpreting-test-results
+Track if there are patterns of exponential increase in the level of light detected by photosensor, which indicates COVID-19 viral RNA. Results of four sets of experiments (COVID-19 RNAs) could be used for diagnosis according to this criteria: https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-detection-instructions.html#interpreting-test-results
 
 
 
