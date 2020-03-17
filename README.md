@@ -8,6 +8,14 @@ For more details, please refer to https://www.cdc.gov/coronavirus/2019-ncov/lab/
 
 The idea is to devise a simpler version of a RT-qPCR test, eliminate experimental roadblocks so that the test could be done at home. 
 
-This could be divided into two general steps, RNA extraction and qRT-PCR.  
+The test could be divided into two general steps, **RNA Extraction** and **qRT-PCR**.  
+
+#### RNA Extraction
+
+
+
+
+
+
 
 
