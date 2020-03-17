@@ -40,7 +40,7 @@ For every cycle:
 
 Track if there are patterns of exponential increase in the level of light detected by photosensor, which indicates COVID-19 viral RNA. Results of four sets of experiments (COVID-19 RNAs) could be used for diagnosis according to this criteria: https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-detection-instructions.html#interpreting-test-results
 
-
+For more cool biology stuff, check out this cheap centrifuge by scientists at Stanford: https://news.stanford.edu/2017/01/10/whirligig-toy-bioengineers-develop-20-cent-hand-powered-blood-centrifuge/
 
 
 
