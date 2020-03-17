@@ -10,7 +10,7 @@ The idea is to devise a simpler version of a RT-qPCR test, eliminate experimenta
 
 The test could be divided into two general steps, **RNA Extraction** and **qRT-PCR**.  
 
-For pipetting, try using disposable sterile exact volume transfer pipettes found here: https://www.pipette.com/transferpipettes?sbr=873&sbn=Globe%20Scientific%C2%A0Exact%20Volume%20Transfer%20Pipettes
+For pipetting, try using disposable sterile exact volume transfer pipettes found here: https://www.pipette.com/transferpipettes?sbr=873&sbn=Globe%20Scientific%C2%A0Exact%20Volume%20Transfer%20Pipettes.  
 A bucket full of ice might also be needed to prevent degradation of RNA and real-time PCR enzymes.  
 
 ### RNA Extraction
