@@ -10,7 +10,14 @@ The idea is to devise a simpler version of a RT-qPCR test, eliminate experimenta
 
 The test could be divided into two general steps, **RNA Extraction** and **qRT-PCR**.  
 
+
+
 #### RNA Extraction
+
+Quick RNA Extraction Kits are available for third party venders such as Thermo Fischer that allows quick RNA extraction, e.g. https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/rna-extraction/rna-types/total-rna-extraction/cells-to-ct-kits.html, especially the TaqMan Gene Expression Cells-to-CT Kit (
+http://assets.thermofisher.com/TFS-Assets/LSG/Warranties/cms_042995.pdf)
+
+
 
 
 
