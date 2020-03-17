@@ -2,7 +2,7 @@
 Open source technique on how to test coronavirus at home
 
 
-### Warning! Please do not test samples from other people to prevent cross-contamination (infecting you from their samples)! This repo only serves educational purposes and is only meant to encourage discussion.    
+## Warning! Please do not test samples from other people to prevent cross-contamination (infecting you from their samples)! This repo only serves educational purposes and is only meant to encourage discussion.    
 For more details, please refer to https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-detection-instructions.html
 
 
@@ -13,13 +13,13 @@ The test could be divided into two general steps, **RNA Extraction** and **qRT-P
 For pipetting, try using disposable sterile exact volume transfer pipettes found here: https://www.pipette.com/transferpipettes?sbr=873&sbn=Globe%20Scientific%C2%A0Exact%20Volume%20Transfer%20Pipettes
 A bucket full of ice might also be needed to prevent degradation of RNA and real-time PCR enzymes.  
 
-#### RNA Extraction
+### RNA Extraction
 
 Quick RNA Extraction Kits are available from third party venders such as Thermo Fischer that allows quick RNA extraction, e.g. https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/rna-extraction/rna-types/total-rna-extraction/cells-to-ct-kits.html, especially the TaqMan Gene Expression Cells-to-CT Kit (
 https://assets.thermofisher.com/TFS-Assets/LSG/manuals/cms_056225.pdf)
 
 
-#### qRT-PCR
+### qRT-PCR
 
 For the reverse transcription part, you do not need a thermocycler. You could instead use a cup of boiling water and a cup of water to hold constant 37°C (hold next to a heat source) to manually cycle between those temperatures. 
 
